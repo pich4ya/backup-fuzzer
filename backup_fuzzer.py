@@ -18,7 +18,7 @@ wp-config.txt
 
 preffixes = set(['', '.', '_', '~'])
 date_seps = set(['', '.', '-', '_'])
-extensions = set(['', '.swp', '.tmp', '~', '.zip', '.tar.gz', '.tgz', '.tar.bz2', '.rar', '.7z', '.bak', '.0', '.1', '.2', '.old'])
+extensions = set(['.txt','', '.swp', '.tmp','.', '~', '.zip', '.tar.gz', '.tgz', '.tar.bz2', '.rar', '.7z', '.bak', '.bak2','.bakk', '.backup','-backup', '.a','-','-old' ,'-tmp','2','0','1', '.0', '.1', '.2', '.old','old'])
 
 
 if __name__ ==  '__main__':
